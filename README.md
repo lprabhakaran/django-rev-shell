@@ -1,4 +1,4 @@
-# django-rev-shell
+# django-rev-shell 
 
 A simple Django app that returns a reverse shell to the IP that is passed as a GET parameter to index.
 
